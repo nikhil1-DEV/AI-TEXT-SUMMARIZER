@@ -26,7 +26,7 @@ This project was developed as part of an **Engineering Intern Assignment**.
 
 The application provides a clean and intuitive interface where users can paste text and generate summaries.
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ---
 
@@ -34,7 +34,7 @@ The application provides a clean and intuitive interface where users can paste t
 
 After clicking **Generate Summary**, the application communicates with the Groq AI model and displays a concise three-point summary.
 
-![Generated Summary](screenshots/summary.png)
+![Generated Summary](screenshots/Summary.png)
 
 ---
 
